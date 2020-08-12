@@ -1,0 +1,3 @@
+[submodule "3rd/test_module"]
+	path = 3rd/test_module
+	url = https://github.com/mofanjun/test_module.git
