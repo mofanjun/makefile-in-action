@@ -30,9 +30,7 @@ endef
 
 
 all:
-	@echo start
 	git submodule update --init
-	@echo end
 
 #use info show expend fragment
 #$(info $(call print,line))
